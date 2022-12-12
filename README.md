@@ -1,2 +1,3 @@
-# AimeCard-NFC
-使用手機感應 即可進行遊戲
+# AimeCard NFC
+把Aime卡放在手機裡
+讓你到處都可以玩音遊
